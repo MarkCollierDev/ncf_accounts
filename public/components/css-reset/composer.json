@@ -1,0 +1,22 @@
+{
+    "name": "ivangabriele/css-reset",
+    "version": "2.5",
+    "homepage": "http://www.ivangabriele.com/css-reset/",
+    "author": {
+        "name": "Ivan Gabriele",
+        "homepage": "http://www.ivangabriele.com"
+    },
+    "license": "MIT",
+    "type": "library",
+    "description": "CSS Resetter Library",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ivangabriele/CSS-Reset.git"
+    },
+    "keywords": [
+        "jquery",
+        "javascript",
+        "browser",
+        "library"
+    ]
+}
